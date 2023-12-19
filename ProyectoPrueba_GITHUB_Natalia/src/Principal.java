@@ -6,6 +6,7 @@ public class Principal {
 		System.out.println("Holi wankenobi");
 		System.out.println("Agur yogur");
 		System.out.println("Ciao Pescao");
+		System.out.println("Adios verdadero!");
 	}
 
 }
